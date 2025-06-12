@@ -35,4 +35,4 @@ If a member takes an action you believe is against this Code of Conduct, you can
 * On Slack, DM Esse Ciego
 * On Email, email ciegosteve@ufl.edu
 
-Portions derived from the [Slack Code of Conduct]([url](https://api.slack.com/community/code-of-conduct)), [Django Code of Conduct]([url](https://www.djangoproject.com/conduct/)), [The Rust Code of Conduct]([url](https://www.rust-lang.org/policies/code-of-conduct)) and [The Ada Initiative]([url](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)) under a [Creative Commons Attribution-ShareAlike license]([url](https://creativecommons.org/licenses/by-sa/3.0/)).
+Portions derived from the [Slack Code of Conduct](https://api.slack.com/community/code-of-conduct), [Django Code of Conduct](https://www.djangoproject.com/conduct/), [The Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) and [The Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/) under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
