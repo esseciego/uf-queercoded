@@ -7,7 +7,7 @@ Introduction
 Welcome! 
 
 * QueerCoded is a diverse community of LGBTQ+ and allied UF students passionate about Computer Science.
-* We want our community to be safe, helpful, and friendly for everyone — regardless of gender, sexual orientation, race, disability, appearance, religion, or any other categories.
+* We want our community to be safe, helpful, and friendly for everyone — regardless of gender identity and expression, sexual orientation, race, religion, disability, or other social categories.
 * This code of conduct applies to all community events, online and in-person. It also applies to one-on-one communications and anywhere where your actions might negatively affect the safety and wellbeing of our community. 
 
 Expected Behavior
